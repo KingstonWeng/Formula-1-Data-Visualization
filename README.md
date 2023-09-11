@@ -1,11 +1,11 @@
 # Formula1DataVisualization
 
 ## Datasets
-Downloaded from Kaggle.
-URL:https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017
+Kaggle URL:https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017
 
 ## Section 1 Speed Evolutions
 The first section of the project plots line charts displaying the lap times of pole position per circuit from 2004 to 2018.
+![Alt text](image.png)
 
 ## Section 2 2017 Driver Comparison
 The second section of the project plots a bar chart displaying the amount of time each driver has scored higher scores/places than teammate in 2017.
