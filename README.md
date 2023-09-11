@@ -12,3 +12,5 @@ The second section of the project plots a bar chart displaying the amount of tim
 
 ## Section 3 Constructor Points Distributions
 The third section of the project plots pie charts displaying constructors' total point distribution each year from 2014 to 2017.
+![Alt text](2015ConstructorsPointsDistributions.png)
+![Alt text](image.png)
